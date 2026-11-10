@@ -1,0 +1,26 @@
+{
+  "gml_files": 248,
+  "buildings_kept": 60725,
+  "buildings_dropped": 22693,
+  "seconds": {
+    "citygml_tools": 185,
+    "add_gml_id": 2,
+    "select_in_boundary": 24,
+    "tyler": 6,
+    "add_credit": 1,
+    "validator": 2,
+    "total": 221
+  },
+  "output_bytes": 40569231,
+  "glb_files": 88,
+  "validator": {
+    "numErrors": 0,
+    "numWarnings": 0,
+    "numInfos": 13
+  },
+  "tools": {
+    "citygml_tools": "citygml4j/citygml-tools:2.5.0",
+    "tyler": "3dgi/tyler@sha256:cf0858cdb4d0facb2c13007a1c24997a0567ca5021d5044f08155b638ae07192",
+    "validator": "3d-tiles-validator@0.6.1"
+  }
+}
